@@ -1,7 +1,6 @@
-<div align="center">
-
-  # <b><font size="7" face="Segoe UI, Helvetica, Arial">   I'm Satywan Prajapati</font></b>
-
+<h1 align="center">
+  I'm Satywan Prajapati 
+</h1>
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+at+IIT+Patna;Google+Student+Ambassador;Machine+Learning+%26+Full+Stack+Developer;Open+Source+Learner" alt="Typing SVG" />
 
