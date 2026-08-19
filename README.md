@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Satywan+Prajapati;Student+at+IIT+Patna;Google+Student+Ambassador;Machine+Learning+%26+Full+Stack+Developer;Open+Source+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+Satywan+Prajapati;Student+at+IIT+Patna;Google+Student+Ambassador+2026;Machine+Learning+%26+Full+Stack+Developer;Open+Source+Learner" alt="Typing SVG" />
 </div>
 
 ---
@@ -35,18 +35,6 @@
 
 ---
 
-## 📊 <b>GitHub & Activity Stats</b>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SatywanPrajapati&theme=dark" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatywanPrajapati&theme=tokyo-night" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 <b>Featured Projects</b>
 
 * ### <b>Crime Rate Prediction System</b>
@@ -61,6 +49,17 @@
 
 ---
 
+## 📊 <b>GitHub & Activity Stats</b>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SatywanPrajapati&theme=dark" alt="GitHub Streak" /><br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatywanPrajapati&theme=tokyo-night" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+
   ## 🌐 <b>Connect with Me</b>
 
   <a href="https://www.linkedin.com/in/satywanprajapati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -68,6 +67,6 @@
   <a href="mailto:satywantech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=SatywanPrajapati&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SatywanPrajapati&color=blue&style=flat-square&base=1340" alt="Profile Views" />
 
-</div>
+</div>  lo v changes karna hai kar ke doh full
