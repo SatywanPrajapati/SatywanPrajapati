@@ -69,4 +69,4 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=SatywanPrajapati&color=blue&style=flat-square&base=1340" alt="Profile Views" />
 
-</div>  lo v changes karna hai kar ke doh full
+</div>  
